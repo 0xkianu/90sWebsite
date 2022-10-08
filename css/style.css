@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
+
+body {
+    background-color: #4c5bfd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width:100%;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 50px;
+    color:  #f977bc;
+}
+
+#banner {
+    height: 500px;
+}
+
+#counter_frame {
+    width: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 120px;
+}
+
+li:before {
+    content: "-";
+}
+
+.list_link {
+    color: #f977bc;
+}
+
+.dog_links {
+    color: #f977bc;
+}
+
+.link_desc {
+    font-size: 50px;
+}
+
+li.facts {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 40px;
+}
+
+li.activities {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 40px;
+}
+
+table {
+    margin:0 auto; 
+}
+    
+td#table1 { 
+    width:33.3333%; height:33.333%;
+    text-align: center; 
+    vertical-align: bottom;
+}
+
+td#table2 { 
+    width:33.3333%; height:33.333%;
+    text-align: center; 
+    vertical-align: top;
+}
+
+td#table3 { 
+    width:33.3333%; height:33.333%;
+    text-align: center; 
+    vertical-align: top;
+}
+
+td#table4 { 
+    width:33.3333%; height:33.333%;
+    text-align: center; 
+    vertical-align: top;
+}
+
+img#gallery1 { 
+    width:800px;
+}
+
+img#gallery2 { 
+    width:900px;
+}
+
+img#gallery3 { 
+    width:800px;
+}
+img#gallery4 { 
+    width:1500px;
+}
+
+img#gallery5 { 
+    width:900px;
+}
+
+img#gallery6 { 
+    width:2500px;
+}
+
+img#gallery7 { 
+    width:700px;
+}
+img#gallery8 { 
+    width:700px;
+}
+
+img#gallery9 { 
+    width:600px;
+}
+
+img#gallery10 { 
+    width:600px;
+}
